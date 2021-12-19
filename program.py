@@ -1,1 +1,1 @@
-print("star")
+print("star1")
